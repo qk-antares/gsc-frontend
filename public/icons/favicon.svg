@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="92px" viewBox="0 0 25 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 2</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#0439FF" offset="0%"></stop>
+            <stop stop-color="#676BFD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#0439FF" offset="0%"></stop>
+            <stop stop-color="#676BFD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#0439FF" offset="0%"></stop>
+            <stop stop-color="#676BFD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#0439FF" offset="0%"></stop>
+            <stop stop-color="#676BFD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#0439FF" offset="0%"></stop>
+            <stop stop-color="#676BFD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#0439FF" offset="0%"></stop>
+            <stop stop-color="#676BFD" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="控件" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Logo" transform="translate(-5.000000, -2.000000)">
+            <g id="编组-2" transform="translate(5.002951, 1.996973)">
+                <polygon id="矩形备份-16" fill="url(#linearGradient-1)" opacity="0.492271208" transform="translate(12.490020, 2.813130) rotate(-630.000000) translate(-12.490020, -2.813130) " points="12.0249733 -1.12357254 12.9287736 -1.1204647 12.9550664 6.74983345 12.0512661 6.74672561"></polygon>
+                <polygon id="矩形备份-16" fill="url(#linearGradient-2)" opacity="0.492271208" transform="translate(9.857447, 7.433512) rotate(-660.000000) translate(-9.857447, -7.433512) " points="9.43384375 -0.204920319 10.3378121 -0.208268748 10.2810494 15.0719451 9.37708105 15.0752935"></polygon>
+                <polygon id="矩形备份-16" fill="url(#linearGradient-3)" opacity="0.492271208" transform="translate(9.841147, 16.626035) rotate(-600.000000) translate(-9.841147, -16.626035) " points="9.33279416 9.02726958 10.2421017 9.03375112 10.3494994 24.2248009 9.44019184 24.2183193"></polygon>
+                <polygon id="矩形备份-16" fill="url(#linearGradient-2)" opacity="0.492271208" transform="translate(15.189852, 16.317796) rotate(-660.000000) translate(-15.189852, -16.317796) " points="14.7662494 8.67936297 15.6702178 8.67601454 15.6134551 23.9562284 14.7094867 23.9595768"></polygon>
+                <polygon id="矩形备份-16" fill="url(#linearGradient-4)" opacity="0.492271208" transform="translate(7.392123, 11.993546) rotate(-360.000000) translate(-7.392123, -11.993546) " points="6.960498 4.44834231 7.87564895 4.44528501 7.82374806 19.5387498 6.90859712 19.5418071"></polygon>
+                <polygon id="矩形备份-16" fill="url(#linearGradient-5)" opacity="0.492271208" transform="translate(4.484721, 7.468204) rotate(-510.000000) translate(-4.484721, -7.468204) " points="4.05776926 3.56139674 4.96741296 3.55496574 4.91167176 11.3750105 4.00202806 11.3814415"></polygon>
+                <polygon id="矩形备份-16" fill="url(#linearGradient-6)" opacity="0.492271208" transform="translate(4.435348, 16.537377) rotate(-390.000000) translate(-4.435348, -16.537377) " points="3.9634587 12.6486135 4.87844157 12.6520125 4.90723806 20.4261404 3.99225519 20.4227415"></polygon>
+                <polygon id="矩形备份-16" fill="url(#linearGradient-1)" opacity="0.492271208" transform="translate(12.582546, 21.164677) rotate(-450.000000) translate(-12.582546, -21.164677) " points="12.1174994 17.2279741 13.0212996 17.2310819 13.0475924 25.1013801 12.1437922 25.0982723"></polygon>
+                <polygon id="矩形备份-16" fill="url(#linearGradient-5)" opacity="0.492271208" transform="translate(20.534121, 16.603790) rotate(-510.000000) translate(-20.534121, -16.603790) " points="20.1071697 12.6969827 21.0168134 12.6905517 20.9610722 20.5105965 20.0514285 20.5170275"></polygon>
+                <polygon id="矩形备份-16" fill="url(#linearGradient-1)" opacity="0.492271208" transform="translate(17.959972, 12.004799) rotate(-450.000000) translate(-17.959972, -12.004799) " points="17.494925 8.06809647 18.3987253 8.07120431 18.4250181 15.9415025 17.5212178 15.9383946"></polygon>
+                <ellipse id="椭圆形备份-9" stroke="#20D291" stroke-width="1.09737993" fill="#20D291" transform="translate(12.500925, 11.500000) rotate(-360.000000) translate(-12.500925, -11.500000) " cx="12.5009252" cy="11.5" rx="1.95223523" ry="1.95131004"></ellipse>
+                <circle id="椭圆形备份-8" stroke="#0037FF" stroke-width="1.31685591" fill="#0037FF" cx="17.5" cy="2.5" r="1.84157204"></circle>
+                <circle id="椭圆形" stroke="#0037FF" stroke-width="1.31685591" fill="#0037FF" cx="7.5" cy="2.5" r="1.84157204"></circle>
+                <circle id="椭圆形备份" stroke="#0037FF" stroke-width="1.31685591" fill="#0037FF" transform="translate(2.500000, 11.500000) rotate(-360.000000) translate(-2.500000, -11.500000) " cx="2.5" cy="11.5" r="1.84157204"></circle>
+                <circle id="椭圆形备份-6" stroke="#0037FF" stroke-width="1.31685591" fill="#0037FF" transform="translate(7.500000, 20.500000) rotate(-360.000000) translate(-7.500000, -20.500000) " cx="7.5" cy="20.5" r="1.84157204"></circle>
+                <circle id="椭圆形备份-2" stroke="#0037FF" stroke-width="1.31685591" fill="#0037FF" cx="17.5" cy="20.5" r="1.84157204"></circle>
+                <circle id="椭圆形备份-5" stroke="#0037FF" stroke-width="1.31685591" fill="#0037FF" transform="translate(22.500000, 11.500000) rotate(-360.000000) translate(-22.500000, -11.500000) " cx="22.5" cy="11.5" r="1.84157204"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
